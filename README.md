@@ -1,3 +1,3 @@
 # battle-tank-game
 Training project using Unity's Battle Tank base artwork
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot/Screenshot.png)
